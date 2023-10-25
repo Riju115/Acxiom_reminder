@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "user1",
+      "password": "password1"
+    },
+    {
+      "username": "user2",
+      "password": "password2"
+    },
+    {
+      "username": "amit",
+      "password": "12345"
+    },
+    {
+      "username": "amitk",
+      "password": "11111"
+    },
+    {
+      "username": "riju",
+      "password": "12345"
+    },
+    {
+      "username": "riju mondal",
+      "password": "riju@12"
+    }
+  ]
+}
